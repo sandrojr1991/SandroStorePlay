@@ -31,7 +31,7 @@ m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CA
 " tvg-name="Haja Coração" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/haja_coracao.png" group-title="Haja Coração", Capítulos
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Kubanacan" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/kubanacan.png" group-title="Kubanacan", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="Kubanacan" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/kubanacan.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Laços de Família" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/lacos-de-familia.png" group-title="Laços de Família", Capítulos
