@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/Interface%20icons/Novelas.png" group-title="A Dona do Pedaço", Capítulos
+#EXTINF:-1 tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/Interface%20icons/Novelas.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
 #EXTINF:-1 tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/A-forca-do-querer.png" group-title="A Força do Querer", Capítulos
