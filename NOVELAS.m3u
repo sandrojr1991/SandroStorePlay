@@ -50,7 +50,7 @@ m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CA
 #EXTINF:-1 tvg-id="" tvg-name="O Cravo e a Rosa" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/o-cravo-e-a-rosa.png" group-title="NOVELAS" ,O Cravo e a Rosa
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="O Profeta" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/o-cravo-e-a-rosa.png" group-title="NOVELAS" ,O Profeta
+#EXTINF:-1 tvg-id="" tvg-name="O Profeta" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/o-profeta.png" group-title="NOVELAS" ,O Profeta
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/o-rei-do-gado.png" group-title="NOVELAS" ,O Rei do Gado
