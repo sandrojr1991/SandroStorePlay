@@ -1,26 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", LANÇAMENTOS
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="ANIMES", Dragon Ball Classico
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AVENTURA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", AVENTURA
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="ANIMES", Dragon Ball Classico
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AÇÃO" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", AÇÃO
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="ANIMES", Dragon Ball Classico
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FICÇÃO" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", FICÇÃO
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="ANIMES", Dragon Ball Classico
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="COMÉDIA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", COMÉDIA
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="ANIMES", Dragon Ball Classico
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CORRIDA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", CORRIDA
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="ANIMES", Dragon Ball Classico
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LUTA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", LUTA
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="ANIMES", Dragon Ball Classico
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TERROR" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", TERROR
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="ANIMES", Dragon Ball Classico
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GUERRA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", GUERRA
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="ANIMES", Dragon Ball Classico
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ROMANCE" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", ROMANCE
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="ANIMES", Dragon Ball Classico
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="COLEÇÃO" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", COLEÇÃO DE CLÁSSICOS
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="ANIMES", Dragon Ball Classico
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ANTIGOS" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", SEÇÃO DA TARDE
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="ANIMES", Dragon Ball Classico
+m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="ANIMES", Dragon Ball Classico
+m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="ANIMES", Dragon Ball Classico
+m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="ANIMES", Dragon Ball Classico
+m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="ANIMES", Dragon Ball Classico
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
