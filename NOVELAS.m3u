@@ -1,70 +1,70 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/Interface%20icons/Novelas.png"
+#EXTINF:-1 tvg-id="" tvg-name="A Dona do Pedaço" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/a-dona-do-pedaco.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/A-forca-do-querer.png"
+#EXTINF:-1 tvg-id="" tvg-name="A Força do Querer" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/A-forca-do-querer.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/a-usurpadora.png" group-title="A Usurpadora", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="A Usurpadora" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/a-usurpadora.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/alem-da-usurpadora.png" group-title="Além da Usurpadora", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="Além da Usurpadora" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/alem-da-usurpadora.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/alma-gemea.png" group-title="Alma Gêmea", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="Alma Gêmea" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/alma-gemea.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Avenida Brasil" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/avenida-brasil.png" group-title="Avenida Brasil", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="Avenida Brasil" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/avenida-brasil.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Cabocla" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/cabocla.png" group-title="Cabocla", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="Cabocla" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/cabocla.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Chocolate com Pimenta" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/chocolate-com-pimenta.png" group-title="Chocolate com Pimenta", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="Chocolate com Pimenta" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/chocolate-com-pimenta.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Da Cor do Pecado" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/da-cor-do-pecado.png" group-title="Da Cor do Pecado", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="Da Cor do Pecado" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/da-cor-do-pecado.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Haja Coração" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/haja_coracao.png" group-title="Haja Coração", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="Haja Coração" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/haja_coracao.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Kubanacan" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/kubanacan.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Laços de Família" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/lacos-de-familia.png" group-title="Laços de Família", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="Laços de Família" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/lacos-de-familia.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Maria do Bairro" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/maria-do-bairro.png" group-title="Maria do Bairro", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="Maria do Bairro" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/maria-do-bairro.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Marimar" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/marimar.png" group-title="Marimar", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="Marimar" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/marimar.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="O Beijo do Vampiro" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/o-beijo-do-vampiro.png" group-title="O Beijo do Vampiro", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="O Beijo do Vampiro" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/o-beijo-do-vampiro.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="O Clone" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/o-clone.png" group-title="O Clone", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="O Clone" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/o-clone.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="O Cravo e a Rosa" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/o-cravo-e-a-rosa.png" group-title="O Cravo e a Rosa", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="O Cravo e a Rosa" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/o-cravo-e-a-rosa.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="O Profeta" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/o-cravo-e-a-rosa.png" group-title="O Profeta", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="O Profeta" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/o-cravo-e-a-rosa.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/o-rei-do-gado.png" group-title="O Rei do Gado", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/o-rei-do-gado.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Porto dos Milagres" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/porto-milagres.png" group-title="Porto dos Milagres", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="Porto dos Milagres" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/porto-milagres.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Totalmente Demais" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/totalmente-demais.png" group-title="Totalmente Demais", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="Totalmente Demais" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/totalmente-demais.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/velho-chico.png" group-title="Totalmente Demais", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="Velho Chico" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/velho-chico.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Xica da Silva" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/xica-sa-silva.png" group-title="Xica da Silva", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="Xica da Silva" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/xica-sa-silva.png"
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
