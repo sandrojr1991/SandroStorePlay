@@ -8,6 +8,8 @@ https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
 https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
 #EXTINF:-1 tvg-id="" tvg-name="AmericanHorrorStory" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/AmericanHorrorStory.png" group-title="SERIES", American Horror Story
 https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AmericanHorrorStory" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/AmericanHorrorStory.png" group-title="SERIES", American Horror Story
+https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Black Mirror" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/BlackMirror.png" group-title="SERIES", Black Mirror
 https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
 #EXTINF:-1 tvg-id="" tvg-name="BreakingBad" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/BreakingBad.png" group-title="SERIES", Breaking Bad
@@ -53,6 +55,8 @@ https://playstationtv.000webhostapp.com/tvaberta/tvm3u
 #EXTINF:-1 tvg-id="" tvg-name="NewAmsterdam" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/NewAmsterdam.png" group-title="SERIES", New Amsterdam
 https://playstationtv.000webhostapp.com/tvaberta/tvm3u
 #EXTINF:-1 tvg-id="" tvg-name="O-Atirador" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/O-Atirador.png" group-title="SERIES", O Atirador
+https://playstationtv.000webhostapp.com/tvaberta/tvm3u
+#EXTINF:-1 tvg-id="" tvg-name="oMundoPerdido" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/oMundoPerdido.png" group-title="SERIES", O Mundo Perdido
 https://playstationtv.000webhostapp.com/tvaberta/tvm3u
 #EXTINF:-1 tvg-id="" tvg-name="O-ultimo-reino" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/O-ultimo-reino.png" group-title="SERIES", O Último Reino
 https://playstationtv.000webhostapp.com/tvaberta/tvm3u
