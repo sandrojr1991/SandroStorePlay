@@ -1,4 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="SERIES", LANÇAMENTOS
-m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+#EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/1contra-todos.png" group-title="SERIES", 1 Contra Todos
+https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+#EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/24horas.png" group-title="SERIES", 24 horas
+https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AmericanCrimeStory" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/AmericanCrimeStory.png" group-title="SERIES", American Crime Story
+https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AmericanHorrorStory" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/AmericanHorrorStory.png" group-title="SERIES", American Horror Story
+https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Black Mirror" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/BlackMirror.png" group-title="SERIES", Black Mirror
+https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+#EXTINF:-1 tvg-id="" tvg-name="BreakingBad" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/BreakingBad.png" group-title="SERIES", Breaking Bad
+https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Bridgerton" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/Bridgerton.png" group-title="SERIES", Bridgerton
+https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Chuck" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/Chuck.png" group-title="SERIES", Chuck
+https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CidadeInvisivel" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/CidadeInvisivel.png" group-title="SERIES", Cidade Invisível
+https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CobraKai" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/CobraKai.png" group-title="SERIES", Cobra Kai
+https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Xena a Princesa Guerreira" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/xena.png" group-title="SERIES", Xena a Princesa Guerreira
+https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+
+
