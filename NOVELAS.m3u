@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="A Dona do Pedaço" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/Interface%20icons/Novelas.png" group-title="A Dona do Pedaço", Capítulos
+#EXTINF:-1 tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/Interface%20icons/Novelas.png" group-title="A Dona do Pedaço", Capítulos
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="A Força do Querer" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/A-forca-do-querer.png" group-title="A Força do Querer", Capítulos
+#EXTINF:-1 tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/A-forca-do-querer.png" group-title="A Força do Querer", Capítulos
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="A Usurpadora" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/a-usurpadora.png" group-title="A Usurpadora", Capítulos
+#EXTINF:-1 tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/a-usurpadora.png" group-title="A Usurpadora", Capítulos
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Além da Usurpadora" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/alem-da-usurpadora.png" group-title="Além da Usurpadora", Capítulos
+#EXTINF:-1 tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/alem-da-usurpadora.png" group-title="Além da Usurpadora", Capítulos
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Alma Gêmea" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/alma-gemea.png" group-title="Alma Gêmea", Capítulos
+#EXTINF:-1 tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/alma-gemea.png" group-title="Alma Gêmea", Capítulos
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Avenida Brasil" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/avenida-brasil.png" group-title="Avenida Brasil", Capítulos
