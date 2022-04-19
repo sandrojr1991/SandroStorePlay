@@ -27,8 +27,7 @@ m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CA
 #EXTINF:-1 tvg-id="" tvg-name="Da Cor do Pecado" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/da-cor-do-pecado.png" group-title="Da Cor do Pecado", Capítulos
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
-#EXTINF:-1 tvg-id="
-" tvg-name="Haja Coração" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/haja_coracao.png" group-title="Haja Coração", Capítulos
+#EXTINF:-1 tvg-id="" tvg-name="Haja Coração" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/haja_coracao.png" group-title="Haja Coração", Capítulos
 m3u:https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Kubanacan" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/kubanacan.png"
