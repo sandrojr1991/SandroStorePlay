@@ -1,11 +1,15 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A Usurpadora" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/a-usurpadora.png" group-title="NOVELAS ANOS 1990-1999" ,A Usurpadora
+https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="Cabocla" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/cabocla.png" group-title="NOVELAS ANOS 2000-2009" ,Cabocla
+https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="A Dona do Pedaço" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/a-dona-do-pedaco.png" group-title="NOVELAS ANOS 2010-2022" ,A Dona do Pedaço
 https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="A Força do Querer" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/A-forca-do-querer.png" group-title="NOVELAS ANOS 2010-2022" ,A Força do Querer
-https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="A Usurpadora" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/a-usurpadora.png" group-title="NOVELAS ANOS 1990-1999" ,A Usurpadora
 https://raw.githubusercontent.com/sandrojr1991/NOVELAS/main/M3U_KUBANACAN/CAPITULOS.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Além da Usurpadora" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/alem-da-usurpadora.png" group-title="NOVELAS ANOS 1990-1999" ,Além da Usurpadora
