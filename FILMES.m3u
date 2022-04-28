@@ -5,7 +5,7 @@ https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILME
 #EXTINF:-1 tvg-id="" tvg-name="AÇÃO" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/acao.jpg" group-title="CATEGORIAS", AÇÃO
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FICÇÃO" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/suspense.jpg" group-title="CATEGORIAS", SUSPENSE
-https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/SUSPENSE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="COMÉDIA" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/comedia.jpg" group-title="CATEGORIAS", COMEDIA
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="CORRIDA" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/corrida.jpg" group-title="CATEGORIAS", CORRIDA
