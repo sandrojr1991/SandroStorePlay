@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILME
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FICÇÃO" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", SUSPENSE
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="COMÉDIA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", COMÉDIA
+#EXTINF:-1 tvg-id="" tvg-name="COMÉDIA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", COMEDIA
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="CORRIDA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", CORRIDA
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
@@ -18,5 +18,5 @@ https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILME
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ROMANCE" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", ROMANCE
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ROMANCE" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", COLEÇÕES
+#EXTINF:-1 tvg-id="" tvg-name="ROMANCE" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", COLETANEAS
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
