@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILME
 #EXTINF:-1 tvg-id="" tvg-name="COMÉDIA" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/comedia.jpg" group-title="CATEGORIAS", COMEDIA
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="CORRIDA" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/corrida.jpg" group-title="CATEGORIAS", CORRIDA
-https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/CORRIDA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LUTA" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/luta.jpg" group-title="CATEGORIAS", LUTA
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TERROR" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/terror.jpg" group-title="CATEGORIAS", TERROR
