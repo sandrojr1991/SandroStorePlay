@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="AVENTURA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", AVENTURA
-m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="AÇÃO" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", AÇÃO
-m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FICÇÃO" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", FICÇÃO
-m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="COMÉDIA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", COMÉDIA
-m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="CORRIDA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", CORRIDA
-m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LUTA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", LUTA
-m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TERROR" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", TERROR
-m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="GUERRA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", GUERRA
-m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ROMANCE" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", ROMANCE
-m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="COLEÇÃO" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", COLEÇÃO DE CLÁSSICOS
-m3u:https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
