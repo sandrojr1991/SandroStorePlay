@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="AVENTURA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", AVENTURA
+#EXTINF:-1 tvg-id="" tvg-name="AVENTURA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", AVENTURA
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AÇÃO" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", AÇÃO
+#EXTINF:-1 tvg-id="" tvg-name="AÇÃO" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", AÇÃO
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FICÇÃO" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", FICÇÃO
+#EXTINF:-1 tvg-id="" tvg-name="FICÇÃO" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", FICÇÃO
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="COMÉDIA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", COMÉDIA
+#EXTINF:-1 tvg-id="" tvg-name="COMÉDIA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", COMÉDIA
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CORRIDA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", CORRIDA
+#EXTINF:-1 tvg-id="" tvg-name="CORRIDA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", CORRIDA
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LUTA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", LUTA
+#EXTINF:-1 tvg-id="" tvg-name="LUTA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", LUTA
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TERROR" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", TERROR
+#EXTINF:-1 tvg-id="" tvg-name="TERROR" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", TERROR
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GUERRA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", GUERRA
+#EXTINF:-1 tvg-id="" tvg-name="GUERRA" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", GUERRA
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ROMANCE" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", ROMANCE
+#EXTINF:-1 tvg-id="" tvg-name="ROMANCE" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", ROMANCE
 m3u:https://playstationtv.000webhostapp.com/tvaberta/tv.m3u
-#EXTINF:-1 tvg-id="" tvg-name="COLEÇÃO" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="FILMES", COLEÇÃO DE CLÁSSICOS
+#EXTINF:-1 tvg-id="" tvg-name="COLEÇÃO" tvg-logo="https://github.com/sandrojr1991/PLAY/raw/main/ICONES/NOVELAS/kubanacan.png" group-title="CATEGORIAS", COLEÇÃO DE CLÁSSICOS
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
