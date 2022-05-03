@@ -110,3 +110,7 @@ https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/SERIE
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/SERIES/ZNATION.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Xena a Princesa Guerreira" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/xena.png" group-title="ACAO", Xena a Princesa Guerreira
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/SERIES/XENA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PowerRangers" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/PowerRangers.png" group-title="INFANTIL", Morphing Power Rangers
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/SERIES/POWER.RANGERS.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FamiliaDinosauro" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/FamiliaDinosauro.png" group-title="INFANTIL", Familia Dinosauro
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/SERIES/FAMILIA.DINOSAURO.m3u
