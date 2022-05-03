@@ -24,6 +24,8 @@ https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/ANIME
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/ANIMES/CDZ.ALMA.DE.OURO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Pokémon" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/pokemon.png" group-title="ANIMES", Pokemon
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/ANIMES/POKEMON.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Saint Seiya The Lost Canvas" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/Sailor.Moon.png" group-title="ANIMES", Sailor Moon
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/ANIMES/SAILOR.MOON.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Saint Seiya The Lost Canvas" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/saintseita-thelostcanvas.png" group-title="ANIMES", Saint Seiya The Lost Canvas
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/ANIMES/SAINT.SEIYA.THE.LOST.CANVAS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Shurato" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/shurato.png" group-title="ANIMES", Shurato
