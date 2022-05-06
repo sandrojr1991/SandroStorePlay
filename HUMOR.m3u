@@ -1,2 +1,42 @@
-#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/Caju.Castanha.-.20.Super.Sucessos.jpg" group-title="MUSICA AO VIVO", A-HA 10.SUCESSOS
-https://github.com/sandrojr1991/FILMES/releases/download/Shows/A-HA.-.10.SUCESSOS.AO.VIVO.mp4
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/Nas.Garras.da.Patrulha.jpg" group-title="PROGAMAÇÃO", NAS GARRAS DA PATRULHA
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/Os.Trapalhoes.jpg" group-title="PROGAMAÇÃO", OS TRAPALHOES
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/SHOW.DO.TOM.-.BOFE.DE.ELITE.1.jpg" group-title="PROGAMAÇÃO", BOFE DE ELITE 1
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/SHOW.DO.TOM.-.BOFE.DE.ELITE.2.jpg" group-title="PROGAMAÇÃO", BOFE DE ELITE 2
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/ESPANTA.-.AS.MELHORES.-.PIADAS.jpg" group-title="PIADAS", ESPANTA AS MELHORES PIADAS
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/Caju.Castanha.-.20.Super.Sucessos.jpg" group-title="PIADAS", CAJU E CASTANHA
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/TIRIRICA.QUAL.E.QUAL.FOI1.1991.jpg" group-title="PIADAS", TIRIRICA QUAL E QUAL FOI
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/Tiririca.-.Fundo.do.Bau.jpg" group-title="PIADAS", TIRIRICA FUNDO DA BAU
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/Tiririca.-.Rir.Pra.Nao.Chorar.Ao.Vivo.jpg" group-title="PIADAS", TIRIRICA NÃO PARA DE CHORAR
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/ZE.LEZIN-.O.MATUTO.NA.LAVA-MATO.jpg" group-title="PIADAS", ZE LEZIM LAVA MATO
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/Ze.Lezin_.Show.completo.2021.jpg" group-title="PIADAS", ZE LEZIM 2021
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/chulumblum.jpg" group-title="PEGADINHAS", CHULUMBLUM
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/CAMERAS.ESCONDIDAS.jpg" group-title="PEGADINHAS", CAMERAS ESCONDIDAS
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/CANAL.BOOM.jpg" group-title="PEGADINHAS", CANAL BOOM
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/CANAL.EM.TOCA.jpg" group-title="PEGADINHAS", CANAL EM TOCA
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/RAFAEL.CHOCOLATE.jpg" group-title="PEGADINHAS", RAFAEL CHOCOLATE
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/Paulo%20SMA.jpg" group-title="PEGADINHAS", PAULO SMA
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/MARLOKO.jpg" group-title="PEGADINHAS", MARLOKO
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/Gerson.Albuquerque.jpg" group-title="PEGADINHAS", GERSON ALBUQUERQUE
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/HUMOR/Pegadinha.do.Mucao.-.So.as.classicas.jpg" group-title="TROTES", PEGADINHAS DO MUCAO
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/HUMOR/OS.TRAPALHOES.m3u
