@@ -1,10 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/61df563650b3e12cb7d022d1ce4c0c14.png" group-title="INFANTIL",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="http://dns.jslinkdns.xyz:80/images/61df563650b3e12cb7d022d1ce4c0c14.png" group-title="INFANTIL",Cartoon Network
 https://live.xvideosporn.me/p2p/cartoon/chunks.m3u8?nimblesessionid=1816595&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjowOTozMiBQTSZoYXNoX3ZhbHVlPTU0eWR3Y0Z3anBCTng5eFhZUG5FRVE9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/61df563650b3e12cb7d022d1ce4c0c14.png" group-title="INFANTIL",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="http://dns.jslinkdns.xyz:80/images/61df563650b3e12cb7d022d1ce4c0c14.png" group-title="INFANTIL",Disney Channel
 https://live.xvideosporn.me/p2p/disneychannel/chunks.m3u8?nimblesessionid=1816708&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjoxODowMyBQTSZoYXNoX3ZhbHVlPXNUZUZneEM4bWl1d0czSE11THdxbFE9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/61df563650b3e12cb7d022d1ce4c0c14.png" group-title="INFANTIL",Nick Jr.
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="http://dns.jslinkdns.xyz:80/images/61df563650b3e12cb7d022d1ce4c0c14.png" group-title="INFANTIL",Nick Jr.
 https://live.xvideosporn.me/p2p/nickjr/chunks.m3u8?nimblesessionid=1816719&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjoxODo0NCBQTSZoYXNoX3ZhbHVlPWZvRUZHem1GMlVTOGZPUmJIYTcyTXc9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS FHD" tvg-logo="http://dns.jslinkdns.xyz:80/images/61df563650b3e12cb7d022d1ce4c0c14.png" group-title="INFANTIL",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="http://dns.jslinkdns.xyz:80/images/61df563650b3e12cb7d022d1ce4c0c14.png" group-title="INFANTIL",Nickelodeon
 https://live.xvideosporn.me/p2p/nickelodeon/chunks.m3u8?nimblesessionid=1816762&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjoyMjowMCBQTSZoYXNoX3ZhbHVlPUVWQXpndXZlbVJZTktBeTZCV3BDM0E9PSZ2YWxpZG1pbnV0ZXM9OTA=
+#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL" tvg-logo="http://dns.jslinkdns.xyz:80/images/61df563650b3e12cb7d022d1ce4c0c14.png" group-title="FUTEBOL",PREMIERE CLUBES
+https://live.xvideosporn.me/p2p/premier1/chunks.m3u8?nimblesessionid=1816817&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjoyNToxMiBQTSZoYXNoX3ZhbHVlPTZYWmZsaUg0cVZoeFV2aHJFaXNMZHc9PSZ2YWxpZG1pbnV0ZXM9OTA=
+#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL" tvg-logo="http://dns.jslinkdns.xyz:80/images/61df563650b3e12cb7d022d1ce4c0c14.png" group-title="FUTEBOL",PREMIERE 7
+https://r3---sn-bg0ezn7s.c.2mdn.net/videoplayback/id/7c74c3b91460cf6d/itag/344/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3794248980/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source/signature/5D5548AD682984A2DDB640A41FC4C56E6DC7C158.4D9AB536C91135CF4414164377EC6C52E3B30745/key/cms1/cms_redirect/yes/mh/og/mip/200.124.166.199/mm/42/mn/sn-bg0ezn7s/ms/onc/mt/1652119955/mv/m/mvi/3/pl/24/file/file.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
