@@ -1,61 +1,282 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/Cartoon%20Network.jpg" group-title="INFANTIL",Cartoon Network
-https://live.xvideosporn.me/p2p/cartoon/chunks.m3u8?nimblesessionid=1816595
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/Disney%20Channel.jpg" group-title="INFANTIL",Disney Channel
-https://live.xvideosporn.me/p2p/disneychannel/chunks.m3u8?nimblesessionid=1816708&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjoxODowMyBQTSZoYXNoX3ZhbHVlPXNUZUZneEM4bWl1d0czSE11THdxbFE9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/Nick%20Jr..jpg" group-title="INFANTIL",Nick Jr.
-https://live.xvideosporn.me/p2p/nickjr/chunks.m3u8?nimblesessionid=1816719&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjoxODo0NCBQTSZoYXNoX3ZhbHVlPWZvRUZHem1GMlVTOGZPUmJIYTcyTXc9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/Nickelodeon.jpg" group-title="INFANTIL",Nickelodeon
-https://live.xvideosporn.me/p2p/nickelodeon/chunks.m3u8?nimblesessionid=1816762&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjoyMjowMCBQTSZoYXNoX3ZhbHVlPUVWQXpndXZlbVJZTktBeTZCV3BDM0E9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/Discovery-Kids.jpg" group-title="INFANTIL",Discovery Kids
-https://live.xvideosporn.me/p2p/discoverykids/chunks.m3u8?nimblesessionid=1818281&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgODoxMTo0OSBQTSZoYXNoX3ZhbHVlPVpPQVBrTFRQYnFndDVTKzh6MGF1d2c9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/anime-tv.jpg" group-title="INFANTIL",Anime-tv
-https://stmv1.srvif.com/animetv/animetv/chunklist_w1458844188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/animes-online.jpg" group-title="INFANTIL",Anime Station
-https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/PREMIERE.jpg" group-title="ESPORTES",PREMIERE CLUBES
-https://live.xvideosporn.me/p2p/premier1/chunks.m3u8?nimblesessionid=1816817&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjoyNToxMiBQTSZoYXNoX3ZhbHVlPTZYWmZsaUg0cVZoeFV2aHJFaXNMZHc9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/PREMIERE.jpg" group-title="ESPORTES",PREMIERE 2
-https://live.xvideosporn.me/p2p/premier2/chunks.m3u8?nimblesessionid=1817222&wmsAuthSign=
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/PREMIERE.jpg" group-title="ESPORTES",PREMIERE 3
-https://live.xvideosporn.me/p2p/premier3/chunks.m3u8?nimblesessionid=1817199&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjo1NjowNyBQTSZoYXNoX3ZhbHVlPStuTUhjdzg0TUVlVytYdXVqVitGQ1E9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/PREMIERE.jpg" group-title="ESPORTES",PREMIERE 4
-https://live.xvideosporn.me/p2p/premier4/chunks.m3u8?nimblesessionid=1817240&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjo1Nzo1OSBQTSZoYXNoX3ZhbHVlPXRhSWF6K3B0Z0V5QU1NQVJFTGxtS0E9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/PREMIERE.jpg" group-title="ESPORTES",PREMIERE 5
-https://live.xvideosporn.me/p2p/premier5/chunks.m3u8?nimblesessionid=1817317&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjo1OTo1NCBQTSZoYXNoX3ZhbHVlPVlWMkNZQzhZcmM4aVA3RDNyOTQzSmc9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/PREMIERE.jpg" group-title="ESPORTES",PREMIERE 6
-https://live.xvideosporn.me/p2p/premier6/chunks.m3u8?nimblesessionid=1817346&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNzowMDo1MyBQTSZoYXNoX3ZhbHVlPXhia3pQYlVRYVZVOE1UWkt6UjBzZmc9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/PREMIERE.jpg" group-title="ESPORTES",PREMIERE 7
-https://live.xvideosporn.me/p2p/premier7/chunks.m3u8?nimblesessionid=1817352&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNzowMTozOCBQTSZoYXNoX3ZhbHVlPVNHWkwrMEtVcnk4aXpSMHpBZjhLb3c9PSZ2YWxpZG1pbnV0ZXM9OTA=
+#EXTINF:-1 tvg-logo=https://i.imgur.com/Hc5Ymjo_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",SBT HD
+https://bit.ly/3w3hb95
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/SPORT%20TV.jpg" group-title="ESPORTES",SPORT TV
-https://live.xvideosporn.me/p2p/sportv/chunks.m3u8?nimblesessionid=1816899&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjozMjo1MCBQTSZoYXNoX3ZhbHVlPXNCb3h4VUg3NWlVazArNHlBdGtlK3c9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/SPORT%20TV%202.jpg" group-title="ESPORTES",SPORT TV 2
-https://live.xvideosporn.me/p2p/sportv2/chunks.m3u8?nimblesessionid=1816906&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjozMzo0MCBQTSZoYXNoX3ZhbHVlPWdCaGZqVGZIaTJLazJPUzUwb0k0ekE9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/SPORT%20TV%203.jpg" group-title="ESPORTES",SPORT TV 3
-https://live.xvideosporn.me/p2p/sportv3/chunks.m3u8?nimblesessionid=1816912&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjozNDoxNCBQTSZoYXNoX3ZhbHVlPU5nK0NkcnRYNzdxSllGdW55Yis0VkE9PSZ2YWxpZG1pbnV0ZXM9OTA=
+#EXTINF:-1 tvg-logo=https://i.imgur.com/Hc5Ymjo_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",SBT SD
+http://bit.ly/3N6kggd
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/ESPN.jpg" group-title="ESPORTES",ESPN
-https://cdn1.xvideosporn.me/p2p/spn/chunks.m3u8?nimblesessionid=362881&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjozOTozNyBQTSZoYXNoX3ZhbHVlPXQzRFBoeHU2cDl3c3JaWWFCcDBqeWc9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/ESPN%202.jpg" group-title="ESPORTES",ESPN 2
-https://live.xvideosporn.me/p2p/spn2/chunks.m3u8?nimblesessionid=1816982&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjo0MDoyNCBQTSZoYXNoX3ZhbHVlPTBUemZNeTdCVUR1TGtQUU8wOTFUQmc9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/ESPN%203.jpg" group-title="ESPORTES",ESPN 3
-https://live.xvideosporn.me/p2p/spn3/chunks.m3u8?nimblesessionid=1817035&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjo0NDo1NCBQTSZoYXNoX3ZhbHVlPTB1Ty9EKzZjOGtzbVhzK0RZeGNEemc9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/ESPN%204.jpg" group-title="ESPORTES",ESPN 4
-https://live.xvideosporn.me/p2p/spn4/chunks.m3u8?nimblesessionid=1816940&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjozNzowNyBQTSZoYXNoX3ZhbHVlPW1wbkdLWDBlMWhVTmN1b3BMdmdWbWc9PSZ2YWxpZG1pbnV0ZXM9OTA=
+#EXTINF:-1 tvg-logo=https://i.imgur.com/Hc5Ymjo_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",SBTHD 2
+http://bit.ly/3L2SSh8
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/BAND%20SPORTS.jpg" group-title="ESPORTES",BAND SPORTS
-https://live.xvideosporn.me/p2p/bandsport/chunks.m3u8?nimblesessionid=1817042&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjo0NTo1NCBQTSZoYXNoX3ZhbHVlPVVrTS8wUGxmNUl0RndNcWhBMDFtZGc9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/FITE.jpg" group-title="ESPORTES",FITE
-https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_480/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/DAZN.jpg" group-title="ESPORTES",DAZN
-https://cdn1.xvideosporn.me/p2p/dazn2/chunks.m3u8?nimblesessionid=363073&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgODowODo1NCBQTSZoYXNoX3ZhbHVlPVZwLzZqdlRpWFdNa3QwemplRGhsYkE9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/MMA.jpg" group-title="ESPORTES",MMA
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/COMBATE.jpg" group-title="ESPORTES",COMBATE
-https://live.xvideosporn.me/p2p/combate/chunks.m3u8?nimblesessionid=1817124&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjo1MDo1NiBQTSZoYXNoX3ZhbHVlPUY4UmlMa0hSMnRPMEVmalBRVFVkMGc9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/FOX%20SPORTS%202.jpg" group-title="ESPORTES",FOX SPORTS 2
-https://live.xvideosporn.me/p2p/foxsport2/chunks.m3u8?nimblesessionid=1817145&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjo1MzoxMyBQTSZoYXNoX3ZhbHVlPWRzako3OGFrM1k5YlFwb0RUUHAyTWc9PSZ2YWxpZG1pbnV0ZXM9OTA=
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/ALL%20SPORTS.jpg" group-title="ESPORTES",ALL SPORTS
-https://live.xvideosporn.me/p2p/foxsport2/chunks.m3u8?nimblesessionid=1817145&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjo1MzoxMyBQTSZoYXNoX3ZhbHVlPWRzako3OGFrM1k5YlFwb0RUUHAyTWc9PSZ2YWxpZG1pbnV0ZXM9OTA=
+#EXTINF:-1 tvg-logo=" group-title="TV aberta", REDE MINAS
+http://bit.ly/3vxqRIo
+
+#EXTINF:-1 tvg-logo=https://i.imgur.com/yZFYed7_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta", TV CARIOCA NET
+https://bit.ly/3vIAQLn
+
+#EXTINF:-1 tvg-logo=https://i.imgur.com/z9WyhDU_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta", axn full hd
+http://bit.ly/3jlZMCn
+
+#EXTINF:-1 tvg-logo=https://i.imgur.com/oM2yqIV_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta", Canal tv pampa
+http://bit.ly/3KqAdw5
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",CANAL RURAL HD
+http://bit.ly/3vknjJB
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta", band sporte
+https://bit.ly/3L3UMhQ
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",AgroBrasil TV
+http://bit.ly/3EJVcrm
+
+#EXTINF:-1 tvg-logo=https://i.imgur.com/oEWJhY5_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",BAND SP 1080P
+https://bit.ly/3vzK1gY
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta", Comedy Central HD
+http://bit.ly/3N7wBAz
+
+#EXTINF:-1 tvg-logo=" group-title="filme filmes", cine livre 1
+https://bit.ly/3JoR5CP
+
+#EXTINF:-1 tvg-logo=group-title="TV musica", TOP MUSIC HD
+https://bit.ly/3Ejhpwg
+
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta", cine livre 2
+http://bit.ly/3JctDYq
+
+#EXTINF:-1 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT81ZkdzX2SxNsyABrqrbFEZVZu2ztsPLOjQQ&usqp=CAU"group-title="TV aberta",FUTURA 1080p 2
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1509321405.m3u8
+#EXTINF:-1 tvg-logo="group-title="TV aberta",88esterio
+https://bit.ly/3LDXUks
+
+#EXTINF:-1 tvg-logo="group="TV title="aberta",vivaweb
+https://bit.ly/3NTv9Cg
+
+#EXTINF:-1tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT81ZkdzX2SxNsyABrqrbFEZVZu2ztsPLOjQQ&usqp=CAU"group="TV title="aberta",FUTURA 1080P
+https://bit.ly/3r5PCtY
+
+#EXTINF:-1 tvg-logo="group-title="TV aberta",1HD Music Television
+https://bit.ly/3xNDaDi
+
+#EXTINF:-1 tvg-logo="group-title="TV kids",anime tv
+http://bit.ly/3NNiXD1
+
+#EXTINF:-1 tvg-logo=group-title="TV filme",filme CHANNEL 1
+https://bit.ly/3xfZUeL
+
+#EXTINF:-1 tvg-logo=https://bit.ly/3unuzE9" group-title="TV aberta",rede Brasil
+http://bit.ly/3v8klrC
+
+#EXTINF:-1 tvg-logo="group-title="TV kids", Discovery kids
+http://bit.ly/3jnyNqk
+
+#EXTINF:-1 tvg-logo=https://i.imgur.com/ubeVvAa_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",A&E
+https://bit.ly/36EkJG8
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta", CULTURA HD
+http://bit.ly/3xxFPAV
+
+#EXTINF:-1 tvg-logo=" group-title="TV kids",O Reino Infantil
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo=https://i.imgur.com/vGLv3mR_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",VILA TV
+https://bit.ly/3MKZt0u
+
+#EXTINF:-1 tvg-logo="group-title="TV aberta",TV CAMERA
+https://bit.ly/3vbszR4
+
+#EXTINF:-1 tvg-logo="group-title="TV aberta",TV GAZETA MA (TV Alternativa)
+http://bit.ly/3vnl2gW
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",REDE CLONE TV
+http://bit.ly/3uQsjH2
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",TV MEGA CINE
+http://bit.ly/3Oc1rZk
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",TV ANITV
+http://bit.ly/3vj3H8G
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",TV REDE TV
+https://bit.ly/3jNFm5q
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnVtUbZByY3i1EjzgrsJRfeAYm3WWRgALtTQ&usqp=CAU group-title="TV aberta",RECORD NEWS
+https://bit.ly/3uQ8nUv
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",RETRÔ CARTOON
+http://bit.ly/3KUtDOm
+
+#EXTINF:-1 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZM8w34FkytmYYRVeWQSHei4uC5uq3sz2M_A&usqp=CAU" group-title="TV aberta",TVE RS
+https://bit.ly/36qAvEo
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",TV NOVA PLAY
+https://bit.ly/3k5pQSV
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",TV RBC
+http://bit.ly/3jLODej
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",TVS KIDS E SERIES
+https://bit.ly/3jTKXXT
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",ISTV
+https://bit.ly/36maeHc
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",BONS TEMPOS TV
+https://bit.ly/3rxWkJt
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",IMPERIAL TV
+http://bit.ly/3vwK2T0
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",TV MAIS BRASIL
+http://bit.ly/3xvJijv
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",MURILO TV
+https://bit.ly/3kdln0o
+
+#EXTINF:-1 tvg-logo=https://i.imgur.com/wvpN0JL_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",record
+http://bit.ly/3EMcTGM
+
+#EXTINF:-1 tvg-logo=" group-title="TV aberta",KISS TV
+
+https://bit.ly/3OxZQ0f
+
+#EXTINF:-1 tvg-logo=https://i.imgur.com/OWI1nKl_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV aberta",TOP TV
+http://bit.ly/3vYi3vJ
+
+#EXTINF:-1 tvg-logo="group-title="TV aberta",TV UFG
+https://bit.ly/3vav2eh
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS BRASILEIROS", REDE BRASIL
+http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="group-title="TV aberta",Jetsons24h
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w313564825.m3u8
+
+#EXTINF:-1 tvg-logo=https://i.imgur.com/RQmDf2f_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta", CARTOON NETWORK
+https://bit.ly/3MUwuHX
+
+
+#EXTINF:-1 tvg-logo="group-title="TV aberta", RÁDIO GLOBO RJ 98.1
+https://bit.ly/380FnAZ
+
+#EXTINF:-1 tvg-logo=https://i.imgur.com/g3rFXKD_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TV aberta",TV MAX
+https://bit.ly/3FmXT2w
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="PLUTO BR", A vida moderna de Rocko
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="PLUTO BR", Filmes Suspense
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=69&deviceId=5f171d3442a0500007362f22&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="PLUTO BR", MTV Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=186&deviceId=5f6df5a173d7340007c559f7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png" group-title="PLUTO BR", Os TrÃªs Patetas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=108&deviceId=5f1eed3c29b39600073e2ec0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="PLUTO BR", Pluto TV Cine ComÃ©dia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5f12101f0b12f00007844c7c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="PLUTO BR", Pluto TV Cine Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=63&deviceId=5f1210d14ae1f80007bafb1d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="PLUTO BR", Pluto TV Cine FamÃ­lia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=87&deviceId=5f171f032cd22e0007f17f3d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="PLUTO BR", Pluto TV Cine Sucessos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=52&deviceId=5f120e94a5714d00074576a1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="PLUTO BR", Pluto TV Filmes AÃ§Ã£o
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=56&deviceId=5f120f41b7d403000783a6d6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="PLUTO BR", Pluto TV InvestigaÃ§Ã£o
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=254&deviceId=5f32cf37c9ff2b00082adbc8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="PLUTO BR", Pluto TV Junior
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=703&deviceId=5f12141b146d760007934ea7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="PLUTO BR", Pluto TV Natureza
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=271&deviceId=5f1213ba0ecebc00070e170f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="PLUTO BR", Pluto TV RetrÃ´
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=5f1212ad1728050007a523b8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="PLUTO BR", Pluto TV SÃ©ries
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=101&deviceId=5f121262a189a800076b9386&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="PLUTO BR", Pluto TV Vida Real
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=267&deviceId=5f32d4d9ec194100070c7449&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5716&deviceLon=-46.6443&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS VIA WEB", TV Japi
+https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1184810782.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS VIA WEB", Mundo TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS VIA WEB", tvGALEGA
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS VIA WEB", VILA TV SD
+https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w405092168.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS VIA WEB", Chroma TV
+https://5c483b9d1019c.streamlock.net/8054/8054/chunklist_w97362854.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS VIA WEB", TV PANTANAL
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/chunklist_w426372325.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS VIA WEB", Nova TV Vale
+https://5b7f3c45ab7c2.streamlock.net/8016/8016/chunklist_w53365719.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS VIA WEB", TV RP
+https://5b7f3c45ab7c2.streamlock.net/8042/8042/chunklist_w994988147_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS VIA WEB", TV CAPITAL SÃ©ries
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TVS ABERTAS=", Canal SAUDE SD
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT - TV Cidade Verde - (PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT TV Guajará (PA)
+https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS IFANTIL", Retro Cartoon SP
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w820784736.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS IFANTIL", Anime TV SD
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS IFANTIL", KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
+
+
+
+
+
+
+
+
+
+
+
