@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILME
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/LUTA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/romance.jpg" group-title="CATEGORIAS" , ROMANCE
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/ROMANCE.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/suspense.jpg" group-title="CATEGORIAS" , SUSPENSE
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/suspense.jpg" group-title="CATEGORIAS" , FICCAO
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/SUSPENSE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/terror.jpg" group-title="CATEGORIAS" , TERROR
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/TERROR.m3u
