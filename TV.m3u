@@ -8,6 +8,12 @@ https://live.xvideosporn.me/p2p/disneychannel/chunks.m3u8?nimblesessionid=181670
 https://live.xvideosporn.me/p2p/nickjr/chunks.m3u8?nimblesessionid=1816719&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjoxODo0NCBQTSZoYXNoX3ZhbHVlPWZvRUZHem1GMlVTOGZPUmJIYTcyTXc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/Nickelodeon.jpg" group-title="INFANTIL",Nickelodeon
 https://live.xvideosporn.me/p2p/nickelodeon/chunks.m3u8?nimblesessionid=1816762&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjoyMjowMCBQTSZoYXNoX3ZhbHVlPUVWQXpndXZlbVJZTktBeTZCV3BDM0E9PSZ2YWxpZG1pbnV0ZXM9OTA=
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/Discovery-Kids.jpg" group-title="INFANTIL",Discovery Kids
+https://live.xvideosporn.me/p2p/discoverykids/chunks.m3u8?nimblesessionid=1818281&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgODoxMTo0OSBQTSZoYXNoX3ZhbHVlPVpPQVBrTFRQYnFndDVTKzh6MGF1d2c9PSZ2YWxpZG1pbnV0ZXM9OTA=
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/anime-tv.jpg" group-title="INFANTIL",Anime-tv
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1458844188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/animes-online.jpg" group-title="INFANTIL",Anime Station
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/PREMIERE.jpg" group-title="ESPORTES",PREMIERE CLUBES
 https://live.xvideosporn.me/p2p/premier1/chunks.m3u8?nimblesessionid=1816817&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjoyNToxMiBQTSZoYXNoX3ZhbHVlPTZYWmZsaUg0cVZoeFV2aHJFaXNMZHc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/PREMIERE.jpg" group-title="ESPORTES",PREMIERE 2
@@ -43,6 +49,8 @@ https://live.xvideosporn.me/p2p/spn4/chunks.m3u8?nimblesessionid=1816940&wmsAuth
 https://live.xvideosporn.me/p2p/bandsport/chunks.m3u8?nimblesessionid=1817042&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgNjo0NTo1NCBQTSZoYXNoX3ZhbHVlPVVrTS8wUGxmNUl0RndNcWhBMDFtZGc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/FITE.jpg" group-title="ESPORTES",FITE
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_480/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/DAZN.jpg" group-title="ESPORTES",DAZN
+https://cdn1.xvideosporn.me/p2p/dazn2/chunks.m3u8?nimblesessionid=363073&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjIgODowODo1NCBQTSZoYXNoX3ZhbHVlPVZwLzZqdlRpWFdNa3QwemplRGhsYkE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/MMA.jpg" group-title="ESPORTES",MMA
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/COMBATE.jpg" group-title="ESPORTES",COMBATE
