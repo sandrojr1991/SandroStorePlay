@@ -18,5 +18,5 @@ https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILME
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/SUSPENSE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/terror.jpg" group-title="CATEGORIAS" , TERROR | SUSPENSE
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/TERROR.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/sagas.jpg" group-title="CATEGORIAS" , SAGAS | COLEÇÃO
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/sagas.jpg" group-title="CATEGORIAS" , SAGAS | FRANQUIAS
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
