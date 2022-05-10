@@ -1,80 +1,132 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="INFANTIL" ,Anime-tv
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS" ,Anime-tv
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1458844188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="INFANTIL", Anime Station
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS", Anime Station
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="INFANTIL", Retro Cartoon SP
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS", Retro Cartoon SP
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w820784736.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="INFANTIL", Anime TV SD
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS", Anime TV SD
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="INFANTIL", KURIAKOS KIDS
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS", KURIAKOS KIDS
 http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="INFANTIL", TV CARAVELAS
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS", TV CARAVELAS
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/chunklist_w1143029765.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="INFANTIL", TV NAZA
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS", TV NAZA
 https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1071564775.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="INFANTIL", TV POTENGI
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS", TV POTENGI
 https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist_w300971573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="INFANTIL", TV INFOR BAHIA
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS", TV INFOR BAHIA
 https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/chunklist_w1793161784.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="INFANTIL", GOSPEL CARTOON
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS", GOSPEL CARTOON
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w1430113246.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/FITE.jpg" group-title="ESPORTES",FITE
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",FITE
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_480/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTES" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/CANAIS/MMA.jpg" group-title="ESPORTES",MMA
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",MMA
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="DOCUMENTARIOS",TV CLUBE WEB
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV CLUBE WEB
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w958776630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="FILMES",TV POMBAL
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV POMBAL
 https://stmv1.srvif.com/tvpombal/tvpombal/chunklist_w763989387.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="NOTICIAS",TV GAZETA
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV GAZETA
 https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1267978463.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="INFANTIL",TELA VIVA TV
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TELA VIVA TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1609777683.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="MUSICA",REDE UTV BRASIL
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",REDE UTV BRASIL
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w615010082.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="INFANTIL",TV VINTAGE
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV VINTAGE
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w2000500078.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="DOCUMENTARIOS",TV ARACATI
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV ARACATI
 https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="FILMES",BONS TEMPOS TV
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",BONS TEMPOS TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1027014853.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="FILMES",VILA TV
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",VILA TV
 https://alanza.iptv2022.com/VILA_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="TELE NOVELAS",ISTV
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",ISTV
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="INFANTIL",Jetsons Tv
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",Jetsons Tv
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1160517064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="DOCUMENTARIOS",Tv Channel Network
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",Tv Channel Network
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w1577710403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="DOCUMENTARIOS",Web Tv Xtreme
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",Web Tv Xtreme
 https://stmv2.samcast.com.br/webtvxtreme/webtvxtreme/chunklist_w900631570.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="DOCUMENTARIOS",Retro Cartoon
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w577309522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="FILMES",CINE LIVRE 1
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",CINE LIVRE 1
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1442737368.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="FILMES",CINE LIVRE 2
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",CINE LIVRE 2
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w2073085050.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="FILMES",CINE LIVRE 2
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",CINE LIVRE 2
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w2073085050.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="FILMES",TV WTJMINAS
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV WTJMINAS
 https://video01.kshost.com.br:4443/wladimir4773/wladimir4773/chunklist_w1728552741.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="FILMES",TV WTJMINAS
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV WTJMINAS
 https://video01.kshost.com.br:4443/wladimir4773/wladimir4773/chunklist_w1728552741.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="DOCUMENTARIOS",LIFE CHANNEL BRASIL
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",LIFE CHANNEL BRASIL
 https://alanza.iptv2022.com/LIFE_CHANNEL_BRASIL/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="FILMES",TV PLANALTO NORTE
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV PLANALTO NORTE
 https://alanza.iptv2022.com/PLANALTO_NORTE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="FILMES",TV GALEGA
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="INFANTIL",TV DIGITAL BIRIGUI
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV DIGITAL BIRIGUI
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1707393442.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="FILMES",TV NAZA
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV NAZA
 https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1071564775.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="FILMES",TV J.SID
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV J.SID
 https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="DOCUMENTARIOS",TV OMINDARÉ
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV OMINDARÉ
 https://video01.kshost.com.br:4443/lourdes52007/lourdes52007/chunklist_w239193812.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INFANTIL" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="MUSICA",CANAL ITV
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",CANAL ITV
 https://59f2354c05961.streamlock.net:1443/itutv/_definst_/itutv/chunklist_w321101102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",VIVA WEB TV
+https://video01.kshost.com.br:4443/cypriano46326/cypriano46326/chunklist_w1371180268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TRIBUNA REGIONAL WEB TV
+https://5a0c3936c25c8.streamlock.net/8132/8132/chunklist_w682742726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV INFOR BAHIA
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/chunklist_w1639739566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",CHANNEL 1
+https://stmv1.srvif.com/channel1/channel1/chunklist_w161876281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",NOVA GAZETA TV
+https://alanza.iptv2022.com/NOVA_GAZETA_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",LAVRAS CE TV WEB
+https://stmv1.srvstm.com/igor8605/igor8605/chunklist_w278302979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",REDE PREMIUM TV
+https://5c483b9d1019c.streamlock.net/8066/8066/chunklist_w1802223721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",CENTRAL TV
+https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w1169998605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",DEMAIS TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w725565256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",BS TV
+https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w1700339154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV GAZETA BAHIA
+https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w249032395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",CLASSIQUE WESTERN TV
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV JAPI
+https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w433484061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV CARIOCA NET
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1934090432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV JORNAL DO NORDESTE
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1914371444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TELA VIVA TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1609777683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",REDE UTV BRASIL
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w549376332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV VINTAGE
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w15957260.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV ARACATI
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV MAIS BRASIL
+https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w1694936767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",WEB TV ÁGUA BOA
+https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1070037430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV NOVA PLAY
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w638363982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV MEGA CINE
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w328361035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1397741655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",TV Séries
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w725291322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAIS GRATIS" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/59/Logo_Mini_TV_2012-2013.png/revision/latest/scale-to-width-down/490?cb=20201002211915" group-title="CANAIS GRATIS",Web Tv Cine
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1575447110.m3u8
